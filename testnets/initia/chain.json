@@ -62,7 +62,7 @@
     "rpc": [
       {
         "address": "https://rpc.initiation-1.initia.xyz",
-        "provider": "initia"
+        "provider": "initia labs"
       },
       {
         "address": "https://b545809c-5562-4e60-b5a1-22e83df57748.initiation-1.mesa-rpc.ue1-prod.newmetric.xyz",
@@ -70,7 +70,7 @@
       },
       {
         "address": "https://rpc.initiation-1.initia.xyz",
-        "provider": "initia"
+        "provider": "initia labs"
       },
       {
         "address": "https://initia-testnet-rpc.polkachu.com",
@@ -112,7 +112,7 @@
     "rest": [
       {
         "address": "https://lcd.initiation-1.initia.xyz",
-        "provider": "initia"
+        "provider": "initia labs"
       },
       {
         "address": "https://b545809c-5562-4e60-b5a1-22e83df57748.initiation-1.mesa-rest.ue1-prod.newmetric.xyz",
@@ -158,13 +158,13 @@
     "api": [
       {
         "address": "https://api.initiation-1.initia.xyz",
-        "provider": "initia"
+        "provider": "initia labs"
       }
     ],
     "grpc": [
       {
         "address": "grpc.initiation-1.initia.xyz:9090",
-        "provider": "initia"
+        "provider": "initia labs"
       },
       {
         "address": "grpc.initiation-1.initia.xyz:9090",
