@@ -280,7 +280,7 @@ An example assetlist json contains the following structure:
       "name": "Fake TIA Token",
       "symbol": "TIA",
       "coingecko_id": "",
-      "images": [
+      "images": [//
         {
           "png": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/TIA.png",
           "svg": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/TIA.svg"
